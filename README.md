@@ -8,7 +8,7 @@ Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live
 - 📫 How to reach me: waibel@kenta.blue 
 - 😄 Pronouns: He/Him 
 
-### Socials 
+### @ Socials 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/K3NTAW)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kenta-waibel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Kenta.zh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/K3NTAW)  
 
 ### ✨ Github Stats 
