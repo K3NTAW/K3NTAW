@@ -1,4 +1,4 @@
-**#### Hey, I am Kenta
+#### Hey, I am Kenta
 ![Hey, I am Kenta](https://media-exp1.licdn.com/dms/image/D5616AQEItRcUpuGxhQ/profile-displaybackgroundimage-shrink_200_800/0/1660574057216?e=2147483647&v=beta&t=nP3OUSefjba0cTJDtzMFxzCGdErzTJH9aF15CqOn8YE)
 
 Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live in Switzerland. I enjoy learning different languages and making funny or usefull projects with them. At the moment I am learning the basics from those 4 languages: HTML, CSS, Java and Python. If you want to more about me as a person you can check out my Instagram instagram.com/kenta.zh or my Linkedin Linkedin.com/kenta-waibel.
@@ -17,4 +17,3 @@ Skills: HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ntaw)](https://github.com/anuraghazra/github-readme-stats)
 
-**
