@@ -11,7 +11,7 @@ Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live
 ### ✨ Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ntaw)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=K3NTAW)  
+![GitHub streak stats][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K3NTAW&theme=github-dark-blue)](https://git.io/streak-stats)
 
 
 ### @ Socials 
