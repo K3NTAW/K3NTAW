@@ -9,9 +9,8 @@ Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live
 - 😄 Pronouns: He/Him 
 
 ### ✨ Github Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3ntaw)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K3NTAW&theme=github-dark-blue)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/K3NTAW/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/K3NTAW/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 ### @ Socials 
