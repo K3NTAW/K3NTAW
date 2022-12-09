@@ -9,8 +9,8 @@ Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live
 - 😄 Pronouns: He/Him 
 
 ### ✨ Github Stats 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?K3NTAW=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?K3NTAW=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=K3NTAW&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NTAW&langs_count=5&theme=tokyonight)]()
 
 
 
