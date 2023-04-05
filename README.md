@@ -5,7 +5,7 @@ Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live
 
 - 🔭 I’m currently working on my own Website. 
 - 🌱 I’m currently learning different languages. 
-- 📫 How to reach me: waibel@kenta.blue 
+- 📫 How to reach me: kenta.waibel@gmail.com 
 - 😄 Pronouns: He/Him 
 
 ### ✨ Github Stats 
