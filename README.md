@@ -1,9 +1,8 @@
 ## Hey 👋, I am Kenta 
 
 ### 👤 About me 
-Hey, I am Kenta a beginner developer. I am half japanese and half swiss and live in Switzerland. I enjoy learning different languages and making funny or usefull projects with them. At the moment I am learning the basics from those 4 languages: HTML, CSS, Java and Python. If you want to know more about me as a person you can check out my Instagram or my Linkedin. 
+Greetings, my name is Kenta and I am an aspiring developer with a multicultural background; my lineage is half Japanese and half Swiss, and I currently reside in Switzerland. I have a passion for language acquisition and relish the opportunity to create entertaining and practical projects with them. Presently, I am focused on acquiring fundamental skills in HTML, CSS, Java, Python, and JavaScript programming languages. Additionally, I have been exploring Docker, a tool used for software containerization, to improve my workflow and deployment processes. If you wish to learn more about me, please feel free to explore my LinkedIn profile.
 
-- 🔭 I’m currently working on my own Website. 
 - 🌱 I’m currently learning different languages. 
 - 📫 How to reach me: kenta.waibel@gmail.com 
 - 😄 Pronouns: He/Him 
