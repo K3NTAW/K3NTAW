@@ -14,6 +14,9 @@ Greetings, my name is Kenta and I am an aspiring developer with a multicultural 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NTAW&langs_count=5&theme=tokyonight)]()
 
 
+### Resume
+https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1
+
 
 ### @ Socials 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kenta-waibel/)  
