@@ -15,7 +15,7 @@ Greetings, my name is Kenta and I am an aspiring developer with a multicultural 
 
 ## Resume
 
-<div style="border-radius: 20px; overflow: hidden; margin: 0 auto; display: block; width: 300px;">
+<div style="border-radius: 20px; overflow: hidden; margin: 0 auto; display: block; width: 100px;">
   <img src="https://github.com/K3NTAW/K3NTAW/assets/110545644/a5fb1740-934e-4e36-9a3f-818d01880f9c" alt="Resume" style="width: 100%;">
 </div>
 
