@@ -15,7 +15,7 @@ Greetings, my name is Kenta and I am an aspiring developer with a multicultural 
 
 
 ### Resume
-[![Resume](https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1)]
+[![Resume](https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1)]https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1
 
 
 ### @ Socials 
