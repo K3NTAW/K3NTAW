@@ -13,10 +13,13 @@ Greetings, my name is Kenta and I am an aspiring developer with a multicultural 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=K3NTAW&langs_count=5&theme=tokyonight)]()
 
+## Resume
 
-### Resume
-![Resume](https://github.com/K3NTAW/K3NTAW/assets/110545644/a5fb1740-934e-4e36-9a3f-818d01880f9c)
-[Linkt to resume on figma](https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1)
+<div style="border-radius: 20px; overflow: hidden; margin: 0 auto; display: block; width: 300px;">
+  <img src="https://github.com/K3NTAW/K3NTAW/assets/110545644/a5fb1740-934e-4e36-9a3f-818d01880f9c" alt="Resume" style="width: 100%;">
+</div>
+
+[Link to resume on figma](https://www.figma.com/file/RwTeyKaoS9irw2XJ0kFOQg/Resume-(Community)?node-id=102%3A726&t=1zuy3Uhjh2O2Pnwr-1)
 
 
 ### @ Socials 
